@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "kernel_samsung_m30lte",
+        "target_path": "kernel/samsung/m30lte"
+    },
+    {
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung"
+    }
+]
